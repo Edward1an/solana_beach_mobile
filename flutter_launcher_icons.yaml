@@ -1,0 +1,11 @@
+# flutter pub run flutter_launcher_icons
+flutter_launcher_icons:
+  ios: true
+  android: "launcher_icon"
+  image_path: "assets/app_logo/logo.png"
+  remove_alpha_ios: true
+  background_color_ios: "#252525"
+  min_sdk_android: 21
+  adaptive_icon_foreground: "assets/app_logo/logo.png"
+  adaptive_icon_background: "#252525"
+  adaptive_icon_foreground_inset: 32

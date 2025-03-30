@@ -26,8 +26,8 @@ Follow these steps to get started with the app on your local machine:
 
 ### 1️⃣ Clone the repository:
 ```sh
-git clone https://github.com/yourusername/blockchain-dashboard.git
-cd blockchain-dashboard
+git clone https://github.com/Edward1an/solana_beach_mobile.git
+cd solana_beach_mobile
 ```
 ### 2️⃣ Install dependencies:
 ```
